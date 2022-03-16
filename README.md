@@ -29,4 +29,4 @@ Click on PowerPoint in taskbar to put slides in front of browser or other app
 
 ## Make Presenter View windowed instead of full screen
 Presenter view can also be windowed instead of full screen. Click on the – in the upper right hand corner like any other windows application.
-With this presenter view and GoToMeeting can both be seen and interacted with e.g., chat.
+With this, presenter view and GoToMeeting can both be seen and interacted with e.g., chat.
