@@ -1,4 +1,4 @@
-# PowerPoint Presenter View Tips
+# PowerPoint Presenter View (and more) Tips
 ## Starting PowerPoint in Presenter View
 ALT-FN-F5 to start presentation from the first slide with presenter view
 
