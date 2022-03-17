@@ -30,3 +30,9 @@ Click on PowerPoint in taskbar to put slides in front of browser or other app
 ## Make Presenter View windowed instead of full screen
 Presenter view can also be windowed instead of full screen. Click on the – in the upper right hand corner like any other windows application.
 With this, presenter view and GoToMeeting can both be seen and interacted with e.g., chat.
+
+## Screen Recording in PowerPoint
+PowerPoint can record your screen. When on the slide you want to put the recording into, click on the insert tab and then screen recording:
+
+![image](https://user-images.githubusercontent.com/19158771/158822003-59745799-88ce-4952-91b7-9e6eb5cc3d8d.png)
+
