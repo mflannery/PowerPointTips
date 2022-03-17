@@ -36,3 +36,5 @@ PowerPoint can record your screen. When on the slide you want to put the recordi
 
 ![image](https://user-images.githubusercontent.com/19158771/158822003-59745799-88ce-4952-91b7-9e6eb5cc3d8d.png)
 
+https://support.microsoft.com/en-us/office/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0
+
